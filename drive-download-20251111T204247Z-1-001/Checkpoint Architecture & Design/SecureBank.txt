@@ -1,0 +1,7 @@
+1 The main flaws were relying only on passwords, no 2FA, and weak session management, which made it easy for attackers to stay inside the system.
+2 The hacker used phishing, credential stuffing, and brute force attacks, which could be prevented with MFA, rate limiting, and strong password policies.
+3 Without 2FA, the attacker used stolen credentials without needing any extra verification, making access simple and direct.
+4 SecureBank should have used layered security with MFA, real-time monitoring, employee awareness, and fast incident response.
+5 Stronger methods like hardware tokens, biometrics, or passwordless login using FIDO2 would have made access much harder for attackers.
+6 Training helps employees recognize phishing, avoid fake login pages, and report suspicious activity, reducing the success of such attacks.
+7 SecureBank must report the breach, improve security systems, follow frameworks like ISO 27001 or NIST, and regularly audit their defenses.

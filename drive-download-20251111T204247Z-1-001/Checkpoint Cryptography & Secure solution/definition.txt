@@ -1,0 +1,27 @@
+Plaintext :
+Plaintext is the original, readable message or data that you want to protect. It has not been encrypted, and anyone who sees it can understand it.
+
+
+Ciphertext :
+Ciphertext is the encrypted version of the plaintext. It appears unreadable or scrambled and is produced after applying an encryption algorithm.
+
+
+Encryption :
+Encryption is the process of converting plaintext into ciphertext using a cryptographic algorithm and a key, to prevent unauthorized access.
+
+
+Decryption :
+Decryption is the reverse process of encryption. It transforms the ciphertext back into its original plaintext using the correct key.
+
+---------------------------------------------------------------------------------------------------------------
+
+
+Symmetric cryptography uses the same key for both encryption and decryption, making it faster but requiring secure key distribution. Asymmetric cryptography uses a pair of keys—one public for encryption and one private for decryption—solving the key distribution problem but being slower.
+
+---------------------------------------------------------------------------------------------------------------
+
+Confidentiality: Ensuring that information is accessible only to authorized parties.
+
+Integrity: Verifying that data has not been altered during transmission or storage.
+
+Authentication: Verifying the identity of users or systems involved in communication.
